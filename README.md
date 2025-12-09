@@ -1,32 +1,54 @@
-# 🎯 BalloonPopp
+# 🎯 **BalloonPopper**
 
-A fun 2D Unity game where you shoot arrows to pop balloons and progress through levels.  
-Each level gets a little faster every time a balloon is popped!
-
----
-
-## 🕹️ How to Play
-- **Move:** Arrow Keys (⬅️ ➡️ ⬆️ ⬇️)  
-- **Shoot:** Spacebar or Trackpad Click 💥  
-- **Goal:** Pop all the balloons to advance to the next level  
-- Each popped balloon increases your **score** and makes the next round more challenging!
+A fun and fast-paced 2D Unity game where you shoot arrows to pop balloons and progress through increasingly challenging levels.
+Each balloon you pop makes the game a little faster, keeping you on your toes!
 
 ---
 
-## 🧩 Built With
-- **Unity 6 (2025)**  
-- **C# scripting**  
-- 2D sprites and animations  
+## 🕹️ **How to Play**
+
+* **Move:** Arrow Keys or **W / A / S / D**
+* **Shoot:** Spacebar or Mouse/Trackpad Click
+* **Extra Animations:**
+
+  * Press **F** → Animation 1 -> Player spin
+  * Press **G** → Animation 2 -> Player bounce
+* **Goal:** Pop balloons, avoid hazards, and survive as long as possible.
+* Each popped balloon increases your **score** and slightly raises the game speed!
 
 ---
 
-## 🌐 Play Online
-Play the WebGL version on Itch.io:  
-👉 [**BalloonPopp on Itch.io**](https://huscse.itch.io/balloon-popping-game)
+## ⭐ **Features**
+
+* Three playable levels
+* Increasing difficulty as you progress
+* Score system with persistent High Scores
+* Main Menu, Instructions, Settings, High Scores
+* Volume slider
+* Two animations triggered by code (Lab 8 requirement)
 
 ---
 
-## 👩‍💻 Developer
-**Husnain Khaliq**  
-Brooklyn College – CISC 3667 (Fall 2025)  
+## 🧩 **Built With**
+
+* Unity 6 (2025)
+* C# scripts
+* 2D sprites
+* WebGL build for browser play
+
+---
+
+## 🌐 **Play Online**
+
+👉 **[Balloon Popper](https://huscse.itch.io/balloon-popper-final-submission)**
+
+---
+
+## 👨‍💻 **Developer**
+
+**Husnain Khaliq**
+Brooklyn College — CISC 3667 (Fall 2025)
+
 Instructor: **Amara Auguste**
+
+---
